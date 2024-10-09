@@ -1,0 +1,24 @@
+{
+  "name": "businessline1",
+  "version": "1.0.0",
+  "description": "A simple business line website",
+  "main": "index.html",
+  "scripts": {
+    "test": "\" No tests yet \""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toyanghub/Business.git"
+  },
+  "keywords": [
+    "business",
+    "line",
+    "website"
+  ],
+  "author": "Toyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Toyanghub/Business/issues"
+  },
+  "homepage": "https://github.com/Toyanghub/Business#readme"
+}
