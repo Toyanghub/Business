@@ -108,3 +108,24 @@
 }
 
 /* End of Front image design */
+
+/* Start of About Us */
+
+/* .container {
+  padding: 50px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+  .col-md-6 {
+    flex: 100%;
+  }
+} */
+/* End of About Us */
