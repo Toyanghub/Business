@@ -1,3 +1,20 @@
+/* Start of Google Fonts */
+.custom-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.custom-text {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: #666;
+}
+
+/* End of Google Fonts */
+
 /* Start of Navbar design */
 
 .nav-link {
@@ -111,21 +128,39 @@
 
 /* Start of About Us */
 
-/* .container {
+.section-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  color: #ffffff;
+  margin-bottom: 1rem;
+}
+
+.section-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: #cccccc;
+}
+
+.highlight-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  color: #ffd700;
+}
+
+.section-container {
+  background-color: #2b2b2b;
   padding: 50px;
+  border-radius: 10px;
 }
 
 .img-fluid {
-  max-width: 100%;
-  height: auto;
+  border-radius: 10px;
 }
 
-@media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-  }
-  .col-md-6 {
-    flex: 100%;
-  }
-} */
 /* End of About Us */
+
+/* Start of Sevices */
+
+/* End of Sevices */
